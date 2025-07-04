@@ -6,5 +6,5 @@ Creative technologist | Full-stack dev | Builder of bold ideas 👑
 - 🎟️ [Smart Booking System] (coming soon)
 
 ## 🛠️ Tech Stack
-`JavaScript` | `Node.js` | `MongoDB` | `React` | `Vue` | `Next.js`
+`JavaScript` | `Node.js` | `MongoDB` | `React` | `Vue` | `Docker`
 
